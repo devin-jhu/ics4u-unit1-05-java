@@ -12,12 +12,6 @@ import java.util.Scanner;
 */
 
 final class BoardFootCalculator {
-
-    /**
-    * Constant for size of a board foot.
-    */
-    public static final double BOARD_FOOT = 144.0;
-
     /**
     * Prevent instantiation.
     * Throw an exception IllegalStateException.
